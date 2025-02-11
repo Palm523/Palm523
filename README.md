@@ -1,7 +1,3 @@
-## Hi there 👋
-Im currently working on improving my coding skills 😆
-im a student at rmit university👌
-im looking to find my first internship
 
 <!--
 **Palm523/Palm523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
